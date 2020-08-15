@@ -29,7 +29,7 @@
                         <div class="inner vertical-center">
                             <div class="box-info">
                                 <div class="row mx-auto D-block">
-                                    <h2 class="heading-large"><a href="{% url 'project' random_post.title %}"
+                                    <h2 class="heading-large" style="font-family: fantasy;"><a href="{% url 'project' random_post.title %}"
                                                                  style="margin-top:-100px;color: black;">{{ random_post.title }}</a>
                                     </h2>
                                 </div>
@@ -85,11 +85,12 @@
                             <div class="box-breadcrumb">
                                 <div class="box-left">
                                     <strong class="parent">
-                                        <a href="{% url 'project' random_post.title %}" style="color: black;">Trending Sites on:</a>
+                                        <a href="{% url 'project' random_post.title %}" style="color: black; font-family: fantasy; font-weight: 400; font-size: 20px;">Click on the Title to rate the Trending Site on:</a>
                                     </strong>
                                     <span class="text-x-thin">{{random_post.date|date}}</span>
                                 </div>
                             </div>
+                            <p>Refresh the page for a different site</p>
                             <div class="box-bl">
                                 <a href="{{random_post.url}}" data-identifier="" data-type="submission"
                                    class="js-visit-item bt-default green-fill" target="_blank" rel="noopener nofollow"
