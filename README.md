@@ -68,7 +68,7 @@ Open the application on your browser `127.0.0.1:8000`.
 
  * https://royalawwards2.herokuapp.com/api/posts/
 
-## Technology used  
+## Technologies used  
   
 * [Python3.8.5](https://www.python.org/)  
 * [Django 2.2.6](https://docs.djangoproject.com/en/2.2/) 
