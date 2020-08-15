@@ -21,7 +21,9 @@
 
 + A user can view projects overall score.
 
-- A user can view their profile page and edit it.  
+- A user can view their profile page.
+
++ A user can add a profile picture and Bioe.
 
   
 ## Setup and Installation  
