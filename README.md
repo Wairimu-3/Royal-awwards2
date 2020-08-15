@@ -29,7 +29,7 @@
 
   
 ## Setup and Installation  
-To get the project .......  
+To get the project.......  
 
 ##### Cloning the repository:  
  ```bash 
