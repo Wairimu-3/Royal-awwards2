@@ -64,7 +64,7 @@ python manage.py makemigrations
 Open the application on your browser `127.0.0.1:8000`.  
 
  ### Api Endpoints
- * 
+ * https://royalawwards2.herokuapp.com/api/users/
 
  * 
 
