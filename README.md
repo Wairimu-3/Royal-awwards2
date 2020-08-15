@@ -17,7 +17,7 @@
 
 + A user can rate/ review other users' projects.
 
-- Search for projects.
+- A user can search for projects.
 
 + View projects overall score.
 
