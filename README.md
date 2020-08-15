@@ -23,7 +23,9 @@
 
 - A user can view their profile page.
 
-+ A user can add a profile picture and Bioe.
++ A user can add a profile picture and Bio.
+
+- A user can logout of their page.
 
   
 ## Setup and Installation  
