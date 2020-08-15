@@ -19,7 +19,7 @@
 
 - A user can search for projects.
 
-+ View projects overall score.
++ A user can view projects overall score.
 
 - A user can view their profile page.  
 
