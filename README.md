@@ -47,7 +47,7 @@ cd project-awwards
 ##### Setup Database  
 SetUp your database User,Password, Host then make migrate  
  ```bash 
-python manage.py makemigrations instagram
+python manage.py makemigrations
  ``` 
   Now Migrate  
  ```bash 
