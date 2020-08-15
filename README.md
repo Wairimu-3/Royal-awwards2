@@ -21,7 +21,7 @@
 
 + A user can view projects overall score.
 
-- A user can view their profile page.  
+- A user can view their profile page and edit it.  
 
   
 ## Setup and Installation  
