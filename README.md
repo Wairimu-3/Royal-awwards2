@@ -29,7 +29,7 @@ To get the project .......
 
 ##### Cloning the repository:  
  ```bash 
- https://github.com/EssyMwangi/awwards
+ https://github.com/Wairimu-3/Royal-awwards2.git
 ```
 ##### Navigate into the folder
  ```bash 
